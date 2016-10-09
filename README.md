@@ -1,6 +1,7 @@
 # A2attrib
+An exercise on Attribute Directives from angular.io
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.15.
+This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.15, Node version 5.12.0 (x64), and npm version 3.10.8. 
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
